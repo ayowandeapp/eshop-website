@@ -78,7 +78,7 @@ In the project, open the env file and edit appropiately
      MAIL_HOST=smtp.gmail.com
      MAIL_PORT=587
      MAIL_USERNAME=ayooluwa71@gmail.com  //email address
-     MAIL_PASSWORD=yqeervhaeedtaxyyydc //mail password
+     MAIL_PASSWORD=yqeetteeervh5aeed5taxyyydc //mail password
      MAIL_ENCRYPTION=tls
 
 In the project directory, where you have package.json,run:
